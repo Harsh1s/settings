@@ -1,0 +1,19 @@
+{
+    "editor.minimap.enabled": false,
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "workbench.sideBar.location": "right",
+    "gopls": {
+        "experimentalWorkspaceModule": true
+    },
+    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "GitHub Light High Contrast"
+}
